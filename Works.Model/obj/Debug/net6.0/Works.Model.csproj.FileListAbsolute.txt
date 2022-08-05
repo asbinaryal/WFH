@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Works\Works.Model\bin\Debug\net6.0\Works.Model.deps.json
+C:\Users\LENOVO\source\repos\Works\Works.Model\bin\Debug\net6.0\Works.Model.dll
+C:\Users\LENOVO\source\repos\Works\Works.Model\bin\Debug\net6.0\Works.Model.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.dll
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\refint\Works.Model.dll
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\Works.Model.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Model\obj\Debug\net6.0\ref\Works.Model.dll

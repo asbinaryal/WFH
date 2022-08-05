@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Repository.deps.json
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Repository.dll
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Repository.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Data.dll
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Model.dll
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Data.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Repository\bin\Debug\net6.0\Works.Model.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.dll
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\refint\Works.Repository.dll
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\Works.Repository.pdb
+C:\Users\LENOVO\source\repos\Works\Works.Repository\obj\Debug\net6.0\ref\Works.Repository.dll

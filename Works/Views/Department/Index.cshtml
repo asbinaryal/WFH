@@ -1,0 +1,84 @@
+﻿@model Works.Models.DepartmentViewModel
+
+
+<div class="row">
+    <a asp-action="Create" asp-controller="Department"class="btn btn-outline-success">
+        Create New Department
+    </a>
+</div>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+   
+        <div class="row">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Department)
+                    {
+                       <tr>
+                           <td>@item.Name</td>
+                         
+                           <td>
+                               <a asp-action="Edit" asp-controller="Department" asp-route-id="@item.Id" class="btn btn-outline-success">
+                                   Edit
+                               </a>
+                                  <a asp-action="Delete" asp-controller="Department" class="btn btn-outline-danger" asp-route-id="@item.Id" >
+                                   Delete
+                               </a>
+                           </td>
+                       </tr>
+                    }
+              
+                </tbody>
+            </table>
+        </div>
+    
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+
+
+
+
+@*
+<div>
+    <h4>Department</h4>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Name
+        </dt>
+        
+    </dl>
+    @foreach (var item in Model.Department)
+    {
+         <dl class="row">
+       
+        <dd class = "col-sm-10">
+            @item.Name
+        </dd>
+         <dd>
+           <a asp-action="Edit" asp-controller="Category" asp-route-id="@item.Id" class="btn btn-outline-success">
+                      Edit
+           </a>
+           <a asp-action="Delete" asp-controller="Category" class="btn btn-outline-danger" asp-route-id="@item.Id" >
+            Delete
+           </a>
+         </dd>
+    </dl>
+    }
+   
+</div>*@

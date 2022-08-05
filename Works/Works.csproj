@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!--<UserSecretsId>aspnet-Works-BD9C04AA-E48C-404A-A678-F1543708A0DA</UserSecretsId>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <Compile Remove="Controllers\DepartmentController.cs" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <ProjectReference Include="..\Works.Data\Works.Data.csproj" />
+    <ProjectReference Include="..\Works.Model\Works.Model.csproj" />
+    <ProjectReference Include="..\Works.Repository\Works.Repository.csproj" />
+    <ProjectReference Include="..\Works.Service\Works.Service.csproj" />
+  </ItemGroup>
+
+</Project>
